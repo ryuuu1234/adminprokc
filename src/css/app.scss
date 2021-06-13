@@ -1,0 +1,63 @@
+// app global css in SCSS form
+// body {
+//     font-size: 14px;
+// }
+
+// p, label {
+//     font-size: 14px;
+// }
+
+// p {
+//     margin: 0 0 5px;
+// }
+.text-h7 {
+    font-size: 14px;
+}
+
+.f-10 {
+    font-size: 10px;
+}
+
+.f-12 {
+    font-size: 12px;
+}
+
+.f-13 {
+    font-size: 13px;
+}
+.f-14 {
+    font-size: 14px;
+}
+.f-15 {
+    font-size: 15px;
+}
+
+.f-16 {
+    font-size: 16px;
+}
+
+.mb-min-5 {
+    margin-bottom: -5px;
+}
+.mb-min-10 {
+    margin-bottom: -10px;
+}
+.mb-min-15 {
+    margin-bottom: -15px;
+}
+.mb-min-20 {
+    margin-bottom: -20px;
+}
+
+.depan {
+    z-index: 2147483647 !important;
+    position:absolute !important;
+}
+
+.q-field__bottom {
+    font-size: 11px;
+    min-height: 15px !important;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.54);
+    padding: 1px 10px 0 !important;
+}
